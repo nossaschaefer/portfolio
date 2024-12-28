@@ -3,7 +3,9 @@
     id="projects"
     class="min-h-screen flex flex-col items-center justify-center w-full xl:px-20 pt-20"
   >
-    <h1 class="font text-7xl sm:text-9xl text-center font-bold pt-16 mb-8">PROJECTS</h1>
+    <h1 class="font text-7xl tracking-tight sm:text-9xl text-center font-bold pt-16 mb-8">
+      PROJECTS
+    </h1>
     <div class="flex flex-col gap-[6rem] p-4 md:p-6 2xl:pt-16 items-center w-full max-w-[1490px]">
       <!-- TooGoodToThrow App Card -->
       <div

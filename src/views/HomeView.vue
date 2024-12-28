@@ -1,7 +1,7 @@
 <script setup></script>
 <template>
   <section class="min-h-screen flex flex-col items-center justify-center w-full xl:px-20">
-    <div class="flex flex-col lg:flex-row p-6 w-full mt-10 max-w-[1490px]">
+    <div class="flex flex-col lg:flex-row pt-8 w-full mt-10 max-w-[1490px]">
       <div class="flex flex-col">
         <h1 class="font text-8xl font-bold xl:text-9xl text-center w-full">Hi, I'm Nossa,</h1>
         <div class="w-full p-4 h-full">
