@@ -16,7 +16,7 @@
       </div>
       <div class="w-full flex justify-center p-4">
         <img
-          src="/Users/nossa/Desktop/coding-projects/portfolio/src/assets/Foto_Nossa_quadratisch.png"
+          src="@/assets/Foto_Nossa_quadratisch.png"
           alt="Portrait of Nossa"
           class="w-full h-full object-cover rounded-2xl"
         />

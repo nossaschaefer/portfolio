@@ -45,7 +45,7 @@
         <div class="flex-1">
           <div class="h-full aspect-[14.5/8]">
             <img
-              src="/Users/nossa/Desktop/coding-projects/portfolio/src/assets/Bildschirmfoto2024-TooGoodToThrow.png"
+              src="@/assets/Bildschirmfoto2024-TooGoodToThrow.png"
               alt="TooGoodToThrow Web App"
               class="h-full object-cover rounded group-hover:scale-105 transition-transform duration-300"
             />
@@ -91,7 +91,7 @@
         <div class="flex-1">
           <div class="h-full aspect-[14.5/8]">
             <img
-              src="/Users/nossa/Desktop/coding-projects/portfolio/src/assets/Bildschirmfoto-Learnified-App.png"
+              src="@/assets/Bildschirmfoto-Learnified-App.png"
               alt="TooGoodToThrow Web App"
               class="h-full object-cover rounded group-hover:scale-105 transition-transform duration-300"
             />
@@ -138,7 +138,7 @@
         <div class="flex-1">
           <div class="h-full aspect-[14.5/8]">
             <img
-              src="/Users/nossa/Desktop/coding-projects/portfolio/src/assets/Bildschirmfoto-Todo-App.png"
+              src="@/assets/Bildschirmfoto-Todo-App.png"
               alt="TooGoodToThrow Web App"
               class="h-full object-cover rounded group-hover:scale-105 transition-transform duration-300"
             />
@@ -185,7 +185,7 @@
         <div class="flex-1">
           <div class="h-full aspect-[14.5/8]">
             <img
-              src="/Users/nossa/Desktop/coding-projects/portfolio/src/assets/Color-Mixer.png"
+              src="@/assets/Color-Mixer.png"
               alt="TooGoodToThrow Web App"
               class="h-full object-cover rounded group-hover:scale-105 transition-transform duration-300"
             />
