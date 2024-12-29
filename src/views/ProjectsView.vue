@@ -15,9 +15,9 @@
         <div class="flex-1 lg:flex-col lg:justify-between lg:pr-6">
           <h3 class="text-[2.7rem] font-bold text-indigo-800">TooGoodToThrow Web App</h3>
           <p class="pt-4 pb-4">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore saepe ipsum voluptatum
-            voluptate molestiae neque voluptatibus, aspernatur aliquid placeat earum! Lorem ipsum
-            dolor sit amet consectetur adipisicing elit. Numquam veritatis eaque quasi?
+            If you see something on the street that is too good to throw away, you can take a
+            picture, upload it to the app and share it with others. You can also see what others
+            have posted and filter by category.
           </p>
           <div class="text-indigo-600 mt-2 leading-relaxed flex gap-2 pt-2">
             <p class="border-2 border-black p-1">Flask</p>
@@ -28,7 +28,7 @@
             <a
               href="https://flask-app-toogoodtothrow.fly.dev/"
               target="_blank"
-              class="inline-block px-4 py-2 bg-purple-500 text-white rounded-lg font-medium hover:bg-purple-600 transition-colors"
+              class="inline-block px-4 py-2 bg-purple-500 text-white rounded-3xl font-medium hover:bg-purple-600 transition-colors"
             >
               Live Site
             </a>
@@ -36,7 +36,7 @@
             <a
               href="https://github.com/nossaschaefer/flask-app-toogoodtothrow"
               target="_blank"
-              class="inline-block px-4 py-2 bg-gray-800 text-white rounded-lg font-medium hover:bg-gray-900 transition-colors"
+              class="inline-block px-4 py-2 bg-gray-800 text-white rounded-3xl font-medium hover:bg-gray-900 transition-colors"
             >
               GitHub
             </a>
@@ -63,8 +63,9 @@
         <div class="flex-1 lg:pr-6">
           <h3 class="text-5xl font-bold text-indigo-800">Learnified Web App</h3>
           <p class="pt-4 pb-4">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore saepe ipsum voluptatum
-            voluptate molestiae neque voluptatibus, aspernatur aliquid placeat earum!
+            With this app, you can test and expand your knowledge in HTML & CSS, JavaScript, and
+            Vue.js. In the quiz, you can score points and compete with other users on the
+            leaderboard. You can even add your own cards, continually growing your knowledge.
           </p>
           <div class="text-indigo-600 mt-2 leading-relaxed flex gap-2 pt-2">
             <p class="border-2 border-black p-1">Vue.js</p>
@@ -74,7 +75,7 @@
             <a
               href="https://learnified.netlify.app/"
               target="_blank"
-              class="inline-block px-4 py-2 bg-purple-500 text-white rounded-lg font-medium hover:bg-purple-600 transition-colors"
+              class="inline-block px-4 py-2 bg-purple-500 text-white rounded-3xl font-medium hover:bg-purple-600 transition-colors"
             >
               Live Site
             </a>
@@ -82,7 +83,7 @@
             <a
               href="https://github.com/nossaschaefer/flask-app-toogoodtothrow"
               target="_blank"
-              class="inline-block px-4 py-2 bg-gray-800 text-white rounded-lg font-medium hover:bg-gray-900 transition-colors"
+              class="inline-block px-4 py-2 bg-gray-800 text-white rounded-3xl font-medium hover:bg-gray-900 transition-colors"
             >
               GitHub
             </a>
@@ -109,8 +110,8 @@
         <div class="flex-1 lg:flex-col lg:justify-between lg:pr-6">
           <h3 class="text-5xl font-bold text-indigo-800">Todo Web App</h3>
           <p class="pt-4 pb-4">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore saepe ipsum voluptatum
-            voluptate molestiae neque voluptatibus, aspernatur aliquid placeat earum!
+            With this app, you can create a list of tasks, mark them as done, and delete them. And
+            you can also filter them by status.
           </p>
           <div class="text-indigo-600 mt-2 leading-relaxed flex gap-2 pt-2">
             <p class="border-2 border-black p-1">Flask</p>
@@ -121,7 +122,7 @@
             <a
               href="https://todo-app-vue-vite.netlify.app/"
               target="_blank"
-              class="inline-block px-4 py-2 bg-purple-500 text-white rounded-lg font-medium hover:bg-purple-600 transition-colors"
+              class="inline-block px-4 py-2 bg-purple-500 text-white rounded-3xl font-medium hover:bg-purple-600 transition-colors"
             >
               Live Site
             </a>
@@ -129,7 +130,7 @@
             <a
               href="https://github.com/nossaschaefer/flask-app-toogoodtothrow"
               target="_blank"
-              class="inline-block px-4 py-2 bg-gray-800 text-white rounded-lg font-medium hover:bg-gray-900 transition-colors"
+              class="inline-block px-4 py-2 bg-gray-800 text-white rounded-3xl font-medium hover:bg-gray-900 transition-colors"
             >
               GitHub
             </a>
@@ -156,8 +157,7 @@
         <div class="flex-1 lg:flex-col lg:justify-between lg:pr-6">
           <h3 class="text-5xl font-bold text-indigo-800">Color Mixer Web App</h3>
           <p class="pt-4 pb-4">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore saepe ipsum voluptatum
-            voluptate molestiae neque voluptatibus, aspernatur aliquid placeat earum!
+            This app lets you mix colors and see the result. It also gives out the rgb color code.
           </p>
           <div class="text-indigo-600 mt-2 leading-relaxed flex gap-2 pt-2">
             <p class="border-2 border-black p-1">Flask</p>
@@ -166,9 +166,9 @@
           </div>
           <div class="mt-4 justify-start flex gap-2">
             <a
-              href="https://color-mixer-app.netlify.app/"
+              href="https://color-mixer-app-vue.netlify.app"
               target="_blank"
-              class="inline-block px-4 py-2 bg-purple-500 text-white rounded-lg font-medium hover:bg-purple-600 transition-colors"
+              class="inline-block px-4 py-2 bg-purple-500 text-white rounded-3xl font-medium hover:bg-purple-600 transition-colors"
             >
               Live Site
             </a>
@@ -176,7 +176,7 @@
             <a
               href="https://github.com/nossaschaefer/flask-app-toogoodtothrow"
               target="_blank"
-              class="inline-block px-4 py-2 bg-gray-800 text-white rounded-lg font-medium hover:bg-gray-900 transition-colors"
+              class="inline-block px-4 py-2 bg-gray-800 text-white rounded-3xl font-medium hover:bg-gray-900 transition-colors"
             >
               GitHub
             </a>
