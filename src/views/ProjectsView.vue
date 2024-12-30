@@ -114,9 +114,8 @@
             you can also filter them by status.
           </p>
           <div class="text-indigo-600 mt-2 leading-relaxed flex gap-2 pt-2">
-            <p class="border-2 border-black p-1">Flask</p>
-            <p class="border-2 border-black p-1">Python</p>
-            <p class="border-2 border-black p-1">Bootstrap</p>
+            <p class="border-2 border-black p-1">Vue.js</p>
+            <p class="border-2 border-black p-1">JavaScript</p>
           </div>
           <div class="mt-4 justify-start flex gap-2">
             <a
@@ -160,9 +159,8 @@
             This app lets you mix colors and see the result. It also gives out the rgb color code.
           </p>
           <div class="text-indigo-600 mt-2 leading-relaxed flex gap-2 pt-2">
-            <p class="border-2 border-black p-1">Flask</p>
-            <p class="border-2 border-black p-1">Python</p>
-            <p class="border-2 border-black p-1">Bootstrap</p>
+            <p class="border-2 border-black p-1">Vue.js</p>
+            <p class="border-2 border-black p-1">JavaScript</p>
           </div>
           <div class="mt-4 justify-start flex gap-2">
             <a
@@ -190,6 +188,53 @@
               src="@/assets/Color-Mixer.png"
               alt="TooGoodToThrow Web App"
               class="h-full object-cover rounded group-hover:scale-105 transition-transform duration-300"
+            />
+          </div>
+        </div>
+      </div>
+
+      <!-- Fitness Timer App Card -->
+      <div
+        class="flex flex-col lg:flex-row gap-8 relative group hover:-translate-y-2 transition-transform duration-300 ease-in-out w-full"
+      >
+        <!-- Card Content -->
+        <div class="flex-1 lg:flex-col lg:justify-between lg:pr-6">
+          <h3 class="text-5xl font-bold text-indigo-800">Fitness Timer Web App</h3>
+          <p class="pt-4 pb-4">
+            This app helps you with your workout. You can set the duration of the intervals and
+            choose the number of repetitions. The app guides you through the workout with sound
+            signals, and your workout history is saved in the browser.
+          </p>
+          <div class="text-indigo-600 mt-2 leading-relaxed flex gap-2 pt-2">
+            <p class="border-2 border-black p-1">JavaScript</p>
+            <p class="border-2 border-black p-1">Tailwindcss</p>
+          </div>
+          <div class="mt-4 justify-start flex gap-2">
+            <a
+              href="https://timer-for-fitness.netlify.app/"
+              target="_blank"
+              class="inline-block px-4 py-2 bg-purple-500 text-white rounded-3xl font-medium hover:bg-purple-600 transition-colors"
+            >
+              Live Site
+            </a>
+
+            <a
+              href="https://github.com/nossaschaefer/timer"
+              target="_blank"
+              class="inline-block px-4 py-2 bg-gray-800 text-white rounded-3xl font-medium hover:bg-gray-900 transition-colors"
+            >
+              GitHub
+            </a>
+          </div>
+        </div>
+
+        <!-- Image -->
+        <div class="flex-1">
+          <div class="h-full aspect-[14.5/8]">
+            <img
+              src="@/assets/Fitness-Timer.png"
+              alt="TooGoodToThrow Web App"
+              class="h-full object-cover rounded group-hover:scale-105 transition-transform duration-300 border"
             />
           </div>
         </div>

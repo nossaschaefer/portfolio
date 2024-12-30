@@ -10,7 +10,7 @@
       <div class="flex justify-center gap-4 pt-4">
         <!-- GitHub -->
         <a
-          href="https://github.com/username"
+          href="https://github.com/nossaschaefer"
           target="_blank"
           rel="noopener noreferrer"
           class="text-gray-700 hover:text-gray-900 transition-colors duration-200"
@@ -19,7 +19,7 @@
         </a>
         <!-- LinkedIn -->
         <a
-          href="https://linkedin.com/in/username"
+          href="https://www.linkedin.com/in/nossa-schaefer/"
           target="_blank"
           rel="noopener noreferrer"
           class="text-[#0a66c2] hover:text-[#085ca0] transition-colors duration-200"
