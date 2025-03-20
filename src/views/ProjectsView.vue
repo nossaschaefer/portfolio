@@ -7,6 +7,54 @@
       Projects
     </h1>
     <div class="flex flex-col gap-[6rem] p-4 md:p-6 2xl:pt-16 items-center w-full max-w-[1490px]">
+      <!-- Box Spotting App Card -->
+      <div
+        class="flex flex-col lg:flex-row gap-8 relative group hover:-translate-y-2 transition-transform duration-300 ease-in-out w-full"
+      >
+        <!-- Card Content -->
+        <div class="flex-1 lg:flex-col lg:justify-between lg:pr-6">
+          <h3 class="text-[2.7rem] font-bold text-indigo-800">Box Spotting Web App</h3>
+          <p class="pt-4 pb-4">
+            The App I'm currently working on: if for example you have in your basement boxes with
+            stuff and want to get a better overview of it you can use this inventory app.
+          </p>
+          <div class="text-indigo-600 mt-2 leading-relaxed flex gap-2 pt-2">
+            <p class="border-2 border-black p-1">React.js</p>
+            <p class="border-2 border-black p-1">Next.js</p>
+            <p class="border-2 border-black p-1">Tailwind CSS</p>
+            <p class="border-2 border-black p-1">MongoDB</p>
+          </div>
+          <div class="mt-4 justify-start flex gap-2">
+            <a
+              href="src/assets/Box_Spotting_Logo.png"
+              target="_blank"
+              class="inline-block px-4 py-2 bg-purple-500 text-white rounded-3xl font-medium hover:bg-purple-600 transition-colors"
+            >
+              Live Site
+            </a>
+
+            <a
+              href="https://github.com/nossaschaefer/nextjs-box-spotting"
+              target="_blank"
+              class="inline-block px-4 py-2 bg-gray-800 text-white rounded-3xl font-medium hover:bg-gray-900 transition-colors"
+            >
+              GitHub
+            </a>
+          </div>
+        </div>
+
+        <!-- Image -->
+        <div class="flex-1">
+          <div class="h-full aspect-[14.5/8] border-2 border-purple-500 rounded-md">
+            <img
+              src="@/assets/Box_Spotting_Logo.png"
+              alt="Box Spotting Web App"
+              class="h-full object-cover rounded group-hover:scale-105 transition-transform duration-300"
+            />
+          </div>
+        </div>
+      </div>
+
       <!-- TooGoodToThrow App Card -->
       <div
         class="flex flex-col lg:flex-row gap-8 relative group hover:-translate-y-2 transition-transform duration-300 ease-in-out w-full"
@@ -81,7 +129,7 @@
             </a>
 
             <a
-              href="https://github.com/nossaschaefer/flask-app-toogoodtothrow"
+              href="https://github.com/coding-bootcamps-eu/final-project-2024-08-learn-app/"
               target="_blank"
               class="inline-block px-4 py-2 bg-gray-800 text-white rounded-3xl font-medium hover:bg-gray-900 transition-colors"
             >
@@ -187,7 +235,7 @@
             <img
               src="@/assets/Color-Mixer.png"
               alt="TooGoodToThrow Web App"
-              class="h-full object-cover rounded group-hover:scale-105 transition-transform duration-300"
+              class="h-full object-cover rounded group-hover:scale-105 transition-transform duration-300 border"
             />
           </div>
         </div>
