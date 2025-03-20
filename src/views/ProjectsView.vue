@@ -21,16 +21,16 @@
           <div class="text-indigo-600 mt-2 leading-relaxed flex gap-2 pt-2">
             <p class="border-2 border-black p-1">React.js</p>
             <p class="border-2 border-black p-1">Next.js</p>
-            <p class="border-2 border-black p-1">Tailwind CSS</p>
+            <p class="border-2 border-black p-1">Tailwindcss</p>
             <p class="border-2 border-black p-1">MongoDB</p>
           </div>
           <div class="mt-4 justify-start flex gap-2">
             <a
-              href="src/assets/Box_Spotting_Logo.png"
+              href=""
               target="_blank"
               class="inline-block px-4 py-2 bg-purple-500 text-white rounded-3xl font-medium hover:bg-purple-600 transition-colors"
             >
-              Live Site
+              Work in Progress
             </a>
 
             <a
@@ -45,7 +45,9 @@
 
         <!-- Image -->
         <div class="flex-1">
-          <div class="h-full aspect-[14.5/8] border-2 border-purple-500 rounded-md">
+          <div
+            class="h-full aspect-[14.5/8] border-2 border-purple-500 rounded-md flex items-center justify-center"
+          >
             <img
               src="@/assets/Box_Spotting_Logo.png"
               alt="Box Spotting Web App"
