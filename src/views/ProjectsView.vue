@@ -16,7 +16,8 @@
           <h3 class="text-[2.7rem] font-bold text-indigo-800">Box Spotting Web App</h3>
           <p class="pt-4 pb-4">
             The App I'm currently working on: if for example you have in your basement boxes with
-            stuff and want to get a better overview of it you can use this inventory app.
+            stuff and want to get a better overview of it you can use this inventory app. Still work
+            in progress but you can preview it.
           </p>
           <div class="text-indigo-600 mt-2 leading-relaxed flex gap-2 pt-2">
             <p class="border-2 border-black p-1">React.js</p>
@@ -26,7 +27,7 @@
           </div>
           <div class="mt-4 justify-start flex gap-2">
             <a
-              href=""
+              href="https://box-spotting.vercel.app/myboxes"
               target="_blank"
               class="inline-block px-4 py-2 bg-purple-500 text-white rounded-3xl font-medium hover:bg-purple-600 transition-colors"
             >
